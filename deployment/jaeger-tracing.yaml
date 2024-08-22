@@ -48,6 +48,6 @@ spec:
   selector:
     app: open-feature-demo-jaeger
   ports:
-    - port: 8082
+    - port: 8083
       targetPort: 16686
 
